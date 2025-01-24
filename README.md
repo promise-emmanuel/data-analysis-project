@@ -7,8 +7,11 @@ The dataset sourced from kaggle contains information such as invoice details, cu
 
 The purpose of this analysis is to uncover insights regarding payment methods, product category preferences, customer behavior, and seasonal trends. These insights can guide decision-making processes for retail businesses.  
 
+[GitHub Link](https://github.com/promise-emmanuel/data-analysis-project)
+
 Here is the link to the presentation on YouTube
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video - YouTube](https://youtu.be/GVo6TlzSw6w)
+[Software Demo Video - Vimeo](https://vimeo.com/1050196477/69e7fac6b9?share=copy)
 
 
 # Data Analysis Results  
